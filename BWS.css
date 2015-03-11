@@ -37,7 +37,7 @@ body, html{
 .jumbotron {
   height: 700px;
   background-size: cover;
-  background-image: url('/Users/StevenNorton/Desktop/Bagpipe/bagpipeweb-2.jpg');
+  background-image: url('bagpipeweb-2.jpg');
   color: green;
   text-align: center;
   font-weight: bold
@@ -72,7 +72,7 @@ eventList{
 .page2 {
   height: 575px;
   background-size: cover;
-  background-image: url('file:///Users/StevenNorton/Desktop/Bagpipe/bagpipeweb2.jpg');
+  background-image: url('bagpipeweb2.jpg');
   margin-right: auto;
   padding-top: 30px;
   color: white;
@@ -82,7 +82,7 @@ eventList{
 .page3 {
   height: 700px;
   background-size: 1100px 1100px;
-  background-image: url('file:///Users/StevenNorton/Desktop/Bagpipe/bagpipeweb4.jpg');
+  background-image: url('bagpipeweb4.jpg');
   margin-right: auto;
   text-align: center;
   color: white;
@@ -95,7 +95,7 @@ eventList{
 .page4 {
   height: 800px;
   background-size: cover;
-  background-image: url('file:///Users/StevenNorton/Desktop/Bagpipe/bagpipewebextra.jpg');
+  background-image: url('bagpipewebextra.jpg');
   margin-left: auto;
   color: green;
   font-weight: bold;
@@ -109,7 +109,7 @@ eventList{
 .page5 {
   height: 500px;
   background-size: cover;
-  background-image: url('file:///Users/StevenNorton/Desktop/Bagpipe/bagpipeweb3.jpg');
+  background-image: url('bagpipeweb3.jpg');
   margin-bottom: 0px;
   border: 3px solid #ffffff;
   font-size: 20px;
@@ -120,7 +120,7 @@ eventList{
 .page6 {
 height: 480px;
 background-size: cover;
-background-image: url('file:///Users/StevenNorton/Desktop/Bagpipe/bagpipeweb1-2.jpg');
+background-image: url('bagpipeweb1-2.jpg');
 color: black;
 font-size: 38px;
 font-weight: bold;
